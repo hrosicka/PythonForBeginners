@@ -1,7 +1,7 @@
 # PythonForBeginners
 Simple examples for beginners.
 
-### Example1
+### Example1.py
 - Simple Example 1
   - input, variables, strings, print
 - Simple Example 2
@@ -10,7 +10,7 @@ Simple examples for beginners.
   - input, math, pow, print
   - circle perimetr and area calculation
 
-### Example2
+### Example2.py
 - Simple Example 1
   - print, in/not in, True/False
 - Simple Example 2
@@ -18,7 +18,7 @@ Simple examples for beginners.
 - Simple Example 3
   - if/else, math, round
 
-### Example3
+### Example3.py
 - Basic Calculator
   - total, difference, product, quotient
   - input, calculate and print results
