@@ -17,3 +17,8 @@ Simple examples for beginners.
   - if/else
 - Simple Example 3
   - if/else, math, round
+
+### Example3
+- Basic Calculator
+  - total, difference, product, quotient
+  - input, calculate and print results
