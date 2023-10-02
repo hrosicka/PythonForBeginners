@@ -27,3 +27,8 @@ Simple examples for beginners.
 - Calculator
   - total, difference, product, quotient
   - input, calculate and print results, repeater, choice operation
+ 
+### Example5.py
+- While cycle
+- Conditions
+- Arrays
