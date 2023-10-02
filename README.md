@@ -22,3 +22,8 @@ Simple examples for beginners.
 - Basic Calculator
   - total, difference, product, quotient
   - input, calculate and print results
+  
+### Example4.py
+- Calculator
+  - total, difference, product, quotient
+  - input, calculate and print results, repeater, choice operation
